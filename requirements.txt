@@ -1,0 +1,13 @@
+gunicorn
+fastapi==0.68.1
+flask 
+flask_cors 
+pandas
+numpy
+scikit-learn
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+tensorflow-serving-api==2.5.0
+urllib3 
+uvicorn==0.15.0
+PIL
